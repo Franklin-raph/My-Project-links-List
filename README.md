@@ -10,3 +10,15 @@
 - [Nder's Portfolio website](https://ndersworld.com)
 - [Sara's Portfolio website](https://sarahchidinma.netlify.app/)
 - [Frank AI (Full Stack Application => MERN)](http://frankai.netlify.app/)
+
+1. Design and Implementation of a Logic Gate Simulator System
+2. Exploring the Benefits of Using a Logic Gate Simulator System
+3. Developing a User-Friendly Logic Gate Simulator System
+4. Understanding the Basics of Logic Gates and How to Use a Simulator System
+5. Analyzing the Performance of Different Types of Logic Gates Using a Simulator System
+6. Comparing Different Types of Logic Gates and Their Performance in a Simulator System
+7. Investigating the Impact of Faulty Circuits on the Performance of a Logic Gate Simulator System
+8. Creating an Advanced Logic Gate Simulator System with Real-Time Simulation Capabilities 
+9. Utilizing Machine Learning Techniques to Improve the Accuracy of a Logic Gate Simulator System 
+10. Exploring the Potential Applications for a Logic Gate Simulator System in Education
+
